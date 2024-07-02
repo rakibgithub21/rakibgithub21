@@ -1,6 +1,4 @@
 ![I am Junior Web Developer](https://i.ibb.co/N7Wpm9C/1.jpg)
-<h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
-<h3 align="center">A passionate Junior Web Developer from Bangladesh</h3>
 
 <h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
 <h3 align="center">A passionate Junior Web Developer from Bangladesh</h3>
