@@ -31,7 +31,7 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibgithub21&show_icons=true&locale=en&layout=compact" alt="rakibgithub21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibgithub21&show_icons=true&locale=en" alt="rakibgithub21" /></p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibgithub21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rakibgithub21" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibgithub21&layout=compact&theme=buefy&hide_border=true" /></a>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rakibgithub21&show_icons=true&theme=gotham" alt="rakibgithub21" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibgithub21&" alt="rakibgithub21" /></p>
