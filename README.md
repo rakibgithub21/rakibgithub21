@@ -1,6 +1,6 @@
 ![I am a Junior Web Developer](https://i.ibb.co/bdNscNk/1.jpg)
 <h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Junior Web developer from Bangladesh</h3>
 As a Junior Web Developer, I am passionate about creating engaging and user-friendly digital experiences. With a strong foundation in HTML, CSS, and JavaScript, and a growing expertise in React, I am committed to developing responsive and dynamic web applications.
 
 
