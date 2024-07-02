@@ -1,4 +1,4 @@
-![image](https://github.com/rakibgithub21/rakibgithub21/assets/139445846/8857c383-0a2e-43b2-866a-8190ae8b2e0f)![image](https://github.com/rakibgithub21/rakibgithub21/assets/139445846/b1aebbf1-0ef1-4038-a0a2-373004bed6c5)![I am Junior Web Developer](https://i.ibb.co/N7Wpm9C/1.jpg)
+[I am Junior Web Developer](https://i.ibb.co/N7Wpm9C/1.jpg)
 <h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
 <h3 align="center">A passionate Junior Web Developer from Bangladesh</h3>
 As a Junior Web Developer, I am passionate about creating engaging and user-friendly digital experiences. With a strong foundation in HTML, CSS, and JavaScript, and a growing expertise in React, I am committed to developing responsive and dynamic web applications.
