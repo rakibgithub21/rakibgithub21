@@ -23,7 +23,7 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibgithub21" alt="rakibgithub21" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +32,8 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
 </p>
 
 <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibgithub21" alt="rakibgithub21" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
