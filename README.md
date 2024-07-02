@@ -78,6 +78,6 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibgithub21&show_icons=true&locale=en" alt="rakibgithub21" /></p>
 
-<br><br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibgithub21&" alt="rakibgithub21" /></p>
