@@ -5,7 +5,7 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibgithub21&label=Profile%20views&color=0e75b6&style=flat" alt="rakibgithub21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibgithub21" alt="rakibgithub21" /></a> </p>
+
 
 <br>
 
@@ -22,6 +22,8 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
 - ⚡ Fun fact **I think I am funny😂**
 
 <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibgithub21" alt="rakibgithub21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
