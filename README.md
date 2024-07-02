@@ -83,7 +83,7 @@ As a Junior Web Developer, I am passionate about creating engaging and user-frie
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibgithub21" alt="rakibgithub21" /></a> </p>
 
 
